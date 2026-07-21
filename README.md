@@ -1,4 +1,4 @@
-﻿# mvaravin
+# mvaravin
 
 Data Engineer · Москва  
 ETL · SQL · PostgreSQL · Python · data quality / NRT
@@ -10,7 +10,7 @@ ETL · SQL · PostgreSQL · Python · data quality / NRT
 
 ### Проекты
 - **[data-quality-rules](https://github.com/mvaravin/data-quality-rules)** — ФЛК: каталог правил проверки данных (React, Flask, PostgreSQL)
-- **[todo-app](https://github.com/mvaravin/todo-app)** — full-stack: React + FastAPI + SQL (SQLite/Postgres), kanban
+- **[mobile-marketplace](https://github.com/mvaravin/mobile-marketplace)** — мобильный магазин: корзина, промо, заказы (Expo + Express/MongoDB)
 
 ### Контакт
 varavin04@bk.ru · English A2 (docs)
