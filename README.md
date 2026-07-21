@@ -10,7 +10,7 @@ ETL · SQL · PostgreSQL · Python · data quality / NRT
 
 ### Проекты
 - **[data-quality-rules](https://github.com/mvaravin/data-quality-rules)** — ФЛК: каталог правил проверки данных (React, Flask, PostgreSQL)
-- **[mobile-marketplace](https://github.com/mvaravin/mobile-marketplace)** — мобильный магазин: корзина, промо, заказы (Expo + Express/MongoDB)
+- **[marketplace-orders](https://github.com/mvaravin/marketplace-orders)** — checkout → PostgreSQL: контракт заказа, SQL stats (Expo + Express)
 
 ### Контакт
 varavin04@bk.ru · English A2 (docs)
